@@ -23,7 +23,7 @@
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/stegcloak.py.git
+git clone https://github.com/SekharNaiyudu/stegcloak.py.git
 cd stegcloak.py
 
 
